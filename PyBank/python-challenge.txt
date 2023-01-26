@@ -1,0 +1,1 @@
+PyBank output has been exported as a file named "financial_analysis.txt" within the PyBank folder of this repository. I have also placed a copy in the "Analysis" folder within PyBank as per the instructions for this assignment. 
