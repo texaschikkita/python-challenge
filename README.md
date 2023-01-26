@@ -44,7 +44,7 @@ Charles Casper Stockham:  85,213 votes,   comprising 23% of the total vote count
 
 Raymon Anthony Doane:     11,606 votes,   comprising 3.1% of the total vote count
 
-The script, in theory could easily be used to analyze other elections, in a broad scope. 
+The script, in theory, could be failrly easily re-worked and reused to analyze other elections, in a broad scope. 
 (I say in theory because, assuming mine worked better, it could be reused.  However, mine would have to be reworked for it to be translatable in any capacity.)  
 The datasetwithin the resources was limited.    
 It does not take anything into consideration beyond Candidate, County and Vote count; 
