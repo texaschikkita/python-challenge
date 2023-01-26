@@ -24,13 +24,24 @@ Three counties participated in this election: Denver, Jefferson and Arapahoe.  A
 Their vote contributions are as follows:
 
 *Denver:     306,055 votes,  comprising 82.8% of the votes - had the highest voter turnoput
+
+
+
 Jefferson:  38,855 votes,    comprising 10.5% of the votes
+
+
 Arapahoe:   24,801 votes,    comprising 6.7% of the votes
+
+
 
 The breakdown of the 3 votes received by each of the candidates are as follows:
 
 Charles Casper Stockham:  85,213 votes,   comprising 23% of the total vote count
+
+
 *Diana DeGette:           272,892 votes,  comprising 73.8% of the total vote count - she was the winner by a substantial margin
+
+
 Raymon Anthony Doane:     11,606 votes,   comprising 3.1% of the total vote count
 
 The script, in theory could easily be used to analyze other elections, in a broad scope. 
