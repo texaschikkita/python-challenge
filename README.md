@@ -15,7 +15,7 @@ Then I didn't match my own syntax and had to go back and make sure everything ma
 I was hoping to have this incredibly advanced, impressive code.  That is NOT what I ended up with.  I should probably master the basics first... 
 
 ...On that note, I would like to take another go at it, but first I need to finish my other homework assignment and study what we are doing now, then I'll back pedal.  
-
+Update - I have been reworking this same script for days now.  I just can't do it.  Nothing is working.  The data it's outputting isn't remotely accurate.  A text file will not populate.  I am beyond frustrated and cannot understand why I am having such an issue with this particular file. It just doesn't work.  I don't know how I am supposed to just forge ahead.  Honestly, I'm thinking maybe I just quit.   
 
 Challenge Overview
 
