@@ -8,6 +8,17 @@ The PyBank one runs as expected.
 The PyPoll one I'm not happy with and know I can do betteer. 
 I over-complicated it, then over-corrected by over-simplifying it.  
 I did this over and over and over again.  
+
+
+NOTE: Sometime between when I began working on the assignment and when I finished the starter code changed.  
+Initially in resources the csv file was name "Pollelection_data.csv;
+And, the assignment asked for county results as well as the candidate results.  
+However, when I went to start over for the 12th time and pulled from repo, 
+I opened file and noticed the data file had been changed to Election_data.csv;
+And, there was no request for county turnout analysis.  
+But, since I spent an embarrassingly long amount of time doing it, you're getting it!
+
+
 I was playing around with getName, various options for dictionary keys/values (with) While, cleaning up and re-writing the csv, magic methods and list slicing.  
 I can't wait to learn the rest of it. I also fiddled around with the various ways to write and export files with data output.  
 I had to play around with csv.reader and csvreader because I over coded it, had 400 lines of code (when 14 would have sufficed). 
@@ -44,7 +55,8 @@ Raymon Anthony Doane:     11,606 votes,   comprising 3.1% of the total vote coun
 
 The script, in theory, could be fairly easily re-worked and reused to analyze other elections, in a broad scope. 
 (I say in theory because, assuming mine worked better, it could be reused.  However, mine would have to be re-written entirely for it to be translatable in any capacity.)  
-The datasetwithin the resources was limited.    
+The dataset within the resources was limited.    
+
 It does not take anything into consideration beyond Candidate, County and Vote count; 
 So, it's not really usable for looking at detailed statistics for an election as using those results for future predictions or voter campaigning.  
 But, it is efficient enough to use in other small scale electtons where the the scope does not need to be well defined.  
